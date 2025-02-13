@@ -39,7 +39,7 @@
   "homepage": "https://github.com/quority/fandom#readme",
   "devDependencies": {
     "@atlaskit/adf-schema": "^25.2.1",
-    "@atlaskit/adf-utils": "^18.0.3",
+    "@atlaskit/adf-utils": "^19.18.1",
     "@quority/core": "^4.0.3",
     "@types/form-data": "2.5.0",
     "@types/fs-extra": "11.0.1",
